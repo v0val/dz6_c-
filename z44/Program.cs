@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Введите количество чисел Фибоначи ");
 int n = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Ряд чисел Фибоначи ");
+Console.WriteLine("Ряд чисел Фибоначи:");
 int x1 = 0;
 int x2 = 1;
 int summ = 0;
